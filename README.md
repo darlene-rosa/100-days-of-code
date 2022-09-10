@@ -1,5 +1,4 @@
-
-#DAY 1: September 9, 2022 -  Setting Up
+# DAY 1: September 9, 2022 -  Setting Up
 
 Goals by the end:
 - Build a portfolio
@@ -11,7 +10,7 @@ Goals by the end:
 Thoughts:  For my personal challenge, I am starting with a 30 minute minimum daily commitment with a goal of 1 hour daily for the next 100 days. Daily consistency is more important than the time put in right now. This is where I've strugged in the past! I'm still learning how to use GitHub and figuring out which website I'll be using for my daily practices
 
 Progress:
-- Set up a Twitter account 
+- Set up a Twitter account https://twitter.com/darlene__rosa
 
 
 
