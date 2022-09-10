@@ -7,10 +7,10 @@ Goals by the end:
 - Acquire some freelance gigs
 - Receive a full-time job offer with my desired salary and benefits
 
-Thoughts:  For my personal challenge, I am starting with a 30 minute minimum daily commitment with a goal of 1 hour daily for the next 100 days. Daily consistency is more important than the time put in right now. This is where I've strugged in the past! I'm still learning how to use GitHub and figuring out which website I'll be using for my daily practices
+Thoughts:  For my personal challenge, I am starting with a 30 minute minimum daily commitment with a goal of 1 hour daily for the next 100 days. Daily consistency is more important than the time put in right now. This is where I've strugged in the past! I'm still learning how to use GitHub and figuring out many other things such as this challenge and which website will be my primary source for learning.  Wish me luck! Let's see how it goes! 
 
 Progress:
-- Set up a Twitter account https://twitter.com/darlene__rosa
+- Set up a Twitter account https://twitter.com/darlene__rosa.
 
 
 
