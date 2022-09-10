@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 2: September 10, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progress**:
+- Found an online timer tab to help me focus while I code
+- Completed 30 minutes total of the Basic JavaScript course on freeCodeCamp. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**&Thoughts**:
+- It was truly more reading and comprehension than actual coding, but that's part of the process to re-engage my brain in this way. I took several months off without any coding practice so I'm working my way back into a rhythm. Feeling glad I started this challenge!
+- The reason I started with the JavaScript course is because I had already completed about 20% of the course when I logged back in for the first time in months and completing it is a requirement for a software engineering course I want to apply to. I realized I was familiar with this language from my practice with Python and having taken a similar foundational free JavaScript course with FullStackAcademy back around 2017/2018. Hoping to finish it by next week!
+- Also want to mention that I am doing #100daysofcoding in tandem with other personal challenges #100daysoffitness and #100daysofbusiness ... and I just learned that these hours spent doing tutorials because I'm learning how to code may not count towards the challenge according to the rules? Either way, I am committing to it until I am able to build projects
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: September 9, 2022 -  Setting Up
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Goals by the end:
+- Build a portfolio
+- Increase skills in HTML, CSS, Python, and Javascript
+- Learn a Javascript framework
+- Acquire some freelance gigs
+- Receive a full-time job offer with my desired salary and benefits
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Thoughts:  For my personal challenge, I am starting with a 30 minute minimum daily commitment with a goal of 1 hour daily for the next 100 days. Daily consistency is more important than the time put in right now. This is where I've strugged in the past! I'm still learning how to use GitHub and figuring out many other things such as this challenge and which website will be my primary source for learning.  Wish me luck! Let's see how it goes! 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Progress:
+- Set up a Twitter account https://twitter.com/darlene__rosa.
+- Worked on freeCodeCamp's Basic JavaScript course and did a few exercises 
