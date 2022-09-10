@@ -11,6 +11,8 @@
 - The reason I started with the JavaScript course is because I had already completed about 20% of the course when I logged back in for the first time in months and completing it is a requirement for a software engineering course I want to apply to. I realized I was familiar with this language from my practice with Python and having taken a similar foundational free JavaScript course with FullStackAcademy back around 2017/2018. Hoping to finish it by next week!
 - Also want to mention that I am doing #100daysofcoding in tandem with other personal challenges #100daysoffitness and #100daysofbusiness ... and I just learned that these hours spent doing tutorials because I'm learning how to code may not count towards the challenge according to the rules? Either way, I am committing to it until I am able to build projects
 
+**Links**: https://twitter.com/darlene__rosa/status/1568709177781936137?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1568709177781936137%7Ctwgr%5Effeaafc541ecd348180308f9631725ed946f0b0c%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1568709177781936137widget%3DTweet
+
 ### Day 1: September 9, 2022 -  Setting Up
 
 **Goals by the end**:
