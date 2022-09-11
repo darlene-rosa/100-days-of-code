@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 3: September 11, 2022
+
+**Progress**:
+- worked for about 30 minutes and completed an additional 10% of the Basic JavaScript course on freeCodeCamp
+- tweeted about it and engaged with the community
+
+**&Thoughts**:
+- Getting exposure on functions and variables. Coding is just like math.
+- I decided to knock out some coding practice as my first main activity for the day. Coding in the morning feels better than coding late at night. Definitely feeling tired but starting to think about next steps regarding projects.
+- Feeling more hopeful and excited about this self-learning process!
+
+**Links**: https://twitter.com/darlene__rosa/status/1568952271727099907?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1568952271727099907%7Ctwgr%5E69924a2660b8ec2c468d2fa41d905d06d0c7d91f%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1568952271727099907widget%3DTweet
+
+
 ### Day 2: September 10, 2022
 
 **Progress**:
