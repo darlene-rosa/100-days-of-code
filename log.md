@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: Monday - September 12, 2022
+
+**Progress**:
+- worked for about 60 minutes on the JavaScript course tutorial on freeCodeCamp. 65% completed
+
+**&Thoughts**:
+- Nerd moment: feeling good about these neural connections I'm making. Jammed out to YouTube Study Music, Alicia Keys and more R&B while coding. 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1569437091548774402?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569437091548774402%7Ctwgr%5Ef6070caedf5b4fd615cd7c3f0e4b4211b1bf9617%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1569437091548774402widget%3DTweet
+
+
 ### Day 3: September 11, 2022
 
 **Progress**:
