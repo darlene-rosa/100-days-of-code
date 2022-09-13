@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 5: September 13, 2022
+
+**Progress**:
+- worked for 37 minutes on the JavaScript course tutorial on freeCodeCamp. 72% completed
+
+**&Thoughts**:
+- Some of the exercises on switch statements were confusing. I hope I have more time to code this evening to finish this course.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1569723713473417225?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569723713473417225%7Ctwgr%5E324d239538911502554cda0c10d06dede6db80d8%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1569723713473417225widget%3DTweet
+
+
+
+
 ### Day 4: Monday - September 12, 2022
 
 **Progress**:
