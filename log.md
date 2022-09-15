@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 7: September 15, 2022
+
+**Progress**:
+- finished the Basic JavaScript course tutorial on freeCodeCamp. 100%
+
+**&Thoughts**:
+- The concepts I struggle most with are the 'switch statements', creating 'for' and 'while' loops (same thing I struggled with when learning Python), functions and objects, nested objects and arrays, iterations, arrays, parsing, recursions. Basically all of the fundamental and more complex concepts :(
+- This sort of passive learning does not help me solidify the concepts. I really need to be in community to learn and have someone to explain it to me. 
+- Although I'll have to revisit this and find other ways to learn JavaScript, I'm happy to be done with this part because I can move on to actually creating projects. Here we go!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1570442985623654407?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570442985623654407%7Ctwgr%5Ec77323f6928698a29b507565bcbbf9c1ed7c2d66%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570442985623654407widget%3DTweet
 
 ### Day 6: Wednesday, September 14, 2022
 
