@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 6: Wednesday, September 14, 2022
+
+**Progress**:
+- worked for 40 minutes on the JavaScript course tutorial on freeCodeCamp. 83% completed
+
+**&Thoughts**:
+- Naturally the freeCodeCamp course will get more challenging as I progress through it. But I'm finding I've had to use hints on most of the problems to complete it. I'm sure every developer has gone through this: the frustrations that come with not being able to figure it out and solve it on your own. I'm not getting too worked up about it because I have faith that in time I'll be able to understand this language. I have no option but to get better. It won't get easier without practice! Plus this is the basis to be able to understand additional frameworks in order to one day build a web application and/or my own mobile application. At minimum, I'd love to play a significant role in a team that is able to do so. That would be a huge marker of success for me in this tech journey. Everyday I think about the technical training program I'm going to apply to. I've received many more rejection emails and I don't know if I have many options left to learn in another format so I really hope I get into it. I do want to learn JavaScript more deeply with additional support and guidance.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1570228552636702725?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570228552636702725%7Ctwgr%5Eabc05af80aa121a7bc8cfd63d1ae056165d0309c%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570228552636702725widget%3DTweet
+
+
+
 ### Day 5: September 13, 2022
 
 **Progress**:
