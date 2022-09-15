@@ -9,8 +9,7 @@
 - Naturally the freeCodeCamp course will get more challenging as I progress through it. But I'm finding I've had to use hints on most of the problems to complete it. I'm sure every developer has gone through this: the frustrations that come with not being able to figure it out and solve it on your own. I'm not getting too worked up about it because I have faith that in time I'll be able to understand this language. I have no option but to get better. It won't get easier without practice! Plus this is the basis to be able to understand additional frameworks in order to one day build a web application and/or my own mobile application. At minimum, I'd love to play a significant role in a team that is able to build something great. That would be a huge marker of success for me in this tech journey. I've been thinking about that technical training program every day since I received that email. I've received many rejection emails from jobs and other training programs and I don't know if I have many options left to accelerate my learning so I really hope I get accepted into it.
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1570228552636702725?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570228552636702725%7Ctwgr%5Eabc05af80aa121a7bc8cfd63d1ae056165d0309c%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570228552636702725widget%3DTweet
-
+https://twitter.com/darlene__rosa/status/1570230667870347264?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570230667870347264%7Ctwgr%5E53855ebbf4648dc5b77b056350d66b21d5894cc4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570230667870347264widget%3DTweet
 
 
 ### Day 5: September 13, 2022
