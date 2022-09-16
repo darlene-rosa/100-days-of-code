@@ -3,6 +3,7 @@
 
 **Progress**:
 - finished the Basic JavaScript course tutorial on freeCodeCamp. 100%
+- spent HOURS on the tech training program application and submitted! (I hope my application advances!)
 
 **&Thoughts**:
 - The concepts I struggle most with are the 'switch statements', creating 'for' and 'while' loops (same thing I struggled with when learning Python), functions and objects, nested objects and arrays, iterations, arrays, parsing, recursions. Basically all of the fundamental and more complex concepts :(
