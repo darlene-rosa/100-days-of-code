@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+
+### Day 8: September 16, 2022
+
+**Progress**:
+- Started the Responsive Web Design course on freeCodeCamp. I'm on Project 1 "Learn HTML by Building a Cat Photo App" Completed 15/69 steps
+- Got re-familiarized coding in VScode
+
+**&Thoughts**:
+- Definitely feel lighter mentally and spiritually after being doing working on JavaScript. I know it's something I must return to but I've been wanting to shift to working on projects with languages I'm more familiar with. I know I rushed to finish and submit the course and application well before the October deadline but I was starting to feel the same pressures I did when I was in school: Coding to complete it without taking sufficient time to learn it.  Because JavaScript is unfamiliar and complicated for me right now, I am feeling like a failure! I need to experience some fun and small wins to gain some energy before returning to it in a couple of weeks. I learn much better when I am working on a project that builds in complexity over time rather than random exercises to introduce me to concepts. 
+- Looking forward to working in HTML while I complete this Cat Photo App. It's the first programming language I ever worked with (back in the days of MySpace! --- I'm aging myself hahaha ). It'll be fun to create something in it again.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1570870649593417735?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570870649593417735%7Ctwgr%5E5d93177604e653e1220a8f121bb5994ed0d5594a%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570870649593417735widget%3DTweet
+
 ### Day 7: September 15, 2022
 
 **Progress**:
