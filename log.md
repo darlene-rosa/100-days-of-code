@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: September 17, 2022
+
+**Progress**:
+- Responsive Web Design course on freeCodeCamp. I'm on Project 1 "Learn HTML by Building a Cat Photo App" Completed 42/69 steps
+- Active on Twitter
+
+**&Thoughts**:
+- I was out of the house most of the day and by the time I got home, all I wanted to do was REST. But I am committed to this goal in particular. It is the link that connects my other two personal goals #100daysofmovement and #100daysofbusiness. Without this one, the others will fail because they are ALL personal and EACH is an important investment in my future. This is why I set a minimum 30 minute daily goal. I know my home life can get really busy some days and it's easy to make excuses to not do the work, but if I just do the minimum percentage that will move me an inch, a percent, closer to my goals, I have to do it. Even if I'm exhausted! So I coded for just about 30 minutes today. Coding late at night sucks because I should be sleeping. Ah well. This is it for today. 
+
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1571329664555024384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1571329664555024384%7Ctwgr%5E43e06496d89ae144cda5838b0f9570c66975839d%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1571329664555024384widget%3DTweet
+
 ### Day 8: September 16, 2022
 
 **Progress**:
