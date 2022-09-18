@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 10: September 18, 2022
+
+**Progress**:
+- Completed Project 1 "Learn HTML by Building a Cat Photo App" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Doing this project was a breeze and fun to build because it was simple but it also felt a little too easy. I did more complex projects in my web design course in college but overall the cat photo app was a good "mini refresher" of basic HTML.
+- I'm planning to go through the entire Responsive Web Design course and I'm hoping that it'll actually pay off in helping me become a better coder and get a job in the next few months. I read a few things in a forum that discourage me slightly and I hope freecodecamp is a good route for now. 
+- Overall I suppose I should be considering what sort of projects I want to build based on the type of work I think I want to be doing.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1571548339979567104?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1571548339979567104%7Ctwgr%5E6c6ff9e333e7e371a17703abb65edf89781271fe%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1571548339979567104widget%3DTweet
+
 
 ### Day 9: September 17, 2022
 
