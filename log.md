@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 11: September 19, 2022
+
+**Progress**:
+- "Learn Basic CSS by Building a Cafe Menu" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Started working on CSS and again, it's like a refresher from the web design course I took in college but I'm actually understanding the concepts more efficiently 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1571954350981009408
+
+
 ### Day 10: September 18, 2022
 
 **Progress**:
@@ -11,7 +23,7 @@
 - Overall I suppose I should be considering what sort of projects I want to build based on the type of work I think I want to be doing.
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1571548339979567104?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1571548339979567104%7Ctwgr%5E6c6ff9e333e7e371a17703abb65edf89781271fe%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1571548339979567104widget%3DTweet
+https://twitter.com/darlene__rosa/status/1571548339979567104
 
 
 ### Day 9: September 17, 2022
@@ -23,9 +35,9 @@ https://twitter.com/darlene__rosa/status/1571548339979567104?ref_src=twsrc%5Etfw
 **&Thoughts**:
 - I was out of the house most of the day and by the time I got home, all I wanted to do was REST. But I am committed to this goal in particular. It is the link that connects my other two personal goals #100daysofmovement and #100daysofbusiness. Without this one, the others will fail because they are ALL personal and EACH is an important investment in my future. This is why I set a minimum 30 minute daily goal. I know my home life can get really busy some days and it's easy to make excuses to not do the work, but if I just do the minimum percentage that will move me an inch, a percent, closer to my goals, I have to do it. Even if I'm exhausted! So I coded for just about 30 minutes today. Coding late at night sucks because I should be sleeping. Ah well. This is it for today. 
 
-
 **Links**:
-https://twitter.com/darlene__rosa/status/1571329664555024384?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1571329664555024384%7Ctwgr%5E43e06496d89ae144cda5838b0f9570c66975839d%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1571329664555024384widget%3DTweet
+https://twitter.com/darlene__rosa/status/1571329664555024384
+
 
 ### Day 8: September 16, 2022
 
@@ -38,7 +50,8 @@ https://twitter.com/darlene__rosa/status/1571329664555024384?ref_src=twsrc%5Etfw
 - Looking forward to working in HTML while I complete this Cat Photo App. It's the first programming language I ever worked with (back in the days of MySpace! --- I'm aging myself hahaha ). It'll be fun to create something in it again.
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1570870649593417735?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570870649593417735%7Ctwgr%5E5d93177604e653e1220a8f121bb5994ed0d5594a%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570870649593417735widget%3DTweet
+https://twitter.com/darlene__rosa/status/1570870649593417735
+
 
 ### Day 7: September 15, 2022
 
@@ -52,7 +65,8 @@ https://twitter.com/darlene__rosa/status/1570870649593417735?ref_src=twsrc%5Etfw
 - Although I'll have to revisit this and find other ways to learn JavaScript, I'm happy to be done with this part because I can move on to actually creating projects. Here we go!
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1570442985623654407?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570442985623654407%7Ctwgr%5Ec77323f6928698a29b507565bcbbf9c1ed7c2d66%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570442985623654407widget%3DTweet
+https://twitter.com/darlene__rosa/status/1570442985623654407
+
 
 ### Day 6: Wednesday, September 14, 2022
 
@@ -62,9 +76,9 @@ https://twitter.com/darlene__rosa/status/1570442985623654407?ref_src=twsrc%5Etfw
 **&Thoughts**:
 - Naturally the freeCodeCamp course will get more challenging as I progress through it. But I'm finding I've had to use hints on most of the problems to complete it. I'm sure every developer has gone through this: the frustrations that come with not being able to figure it out and solve it on your own. I'm not getting too worked up about it because I have faith that in time I'll be able to understand this language. I have no option but to get better. It won't get easier without practice! Plus this is the basis to be able to understand additional frameworks in order to one day build a web application and/or my own mobile application. At minimum, I'd love to play a significant role in a team that is able to build something great. That would be a huge marker of success for me in this tech journey. I've been thinking about that technical training program every day since I received that email. I've received many rejection emails from jobs and other training programs and I don't know if I have many options left to accelerate my learning so I really hope I get accepted into it.
 
-**Links**:
-https://twitter.com/darlene__rosa/status/1570230667870347264?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1570230667870347264%7Ctwgr%5E53855ebbf4648dc5b77b056350d66b21d5894cc4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1570230667870347264widget%3DTweet
 
+**Links**:
+https://twitter.com/darlene__rosa/status/1570230667870347264
 
 ### Day 5: September 13, 2022
 
@@ -75,9 +89,7 @@ https://twitter.com/darlene__rosa/status/1570230667870347264?ref_src=twsrc%5Etfw
 - Some of the exercises on switch statements were confusing. I hope I have more time to code this evening to finish this course.
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1569723713473417225?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569723713473417225%7Ctwgr%5E324d239538911502554cda0c10d06dede6db80d8%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1569723713473417225widget%3DTweet
-
-
+https://twitter.com/darlene__rosa/status/1569723713473417225
 
 
 ### Day 4: Monday - September 12, 2022
@@ -89,7 +101,7 @@ https://twitter.com/darlene__rosa/status/1569723713473417225?ref_src=twsrc%5Etfw
 - Nerd moment: feeling good about these neural connections I'm making. Jammed out to YouTube Study Music, Alicia Keys and more R&B while coding. 
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1569437091548774402?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1569437091548774402%7Ctwgr%5Ef6070caedf5b4fd615cd7c3f0e4b4211b1bf9617%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1569437091548774402widget%3DTweet
+https://twitter.com/darlene__rosa/status/1569437091548774402
 
 
 ### Day 3: September 11, 2022
@@ -103,7 +115,8 @@ https://twitter.com/darlene__rosa/status/1569437091548774402?ref_src=twsrc%5Etfw
 - I decided to knock out some coding practice as my first main activity for the day. Coding in the morning feels better than coding late at night. Definitely feeling tired but starting to think about next steps regarding projects.
 - Feeling more hopeful and excited about this self-learning process!
 
-**Links**: https://twitter.com/darlene__rosa/status/1568952271727099907?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1568952271727099907%7Ctwgr%5E69924a2660b8ec2c468d2fa41d905d06d0c7d91f%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1568952271727099907widget%3DTweet
+**Links**:
+https://twitter.com/darlene__rosa/status/1568952271727099907
 
 
 ### Day 2: September 10, 2022
@@ -117,7 +130,8 @@ https://twitter.com/darlene__rosa/status/1569437091548774402?ref_src=twsrc%5Etfw
 - The reason I started with the JavaScript course is because I had already completed about 20% of the course when I logged back in for the first time in months and completing it is a requirement for a software engineering course I want to apply to. I realized I was familiar with this language from my practice with Python and having taken a similar foundational free JavaScript course with FullStackAcademy back around 2017/2018. Hoping to finish it by next week!
 - Also want to mention that I am doing #100daysofcoding in tandem with other personal challenges #100daysoffitness and #100daysofbusiness ... and I just learned that these hours spent doing tutorials because I'm learning how to code may not count towards the challenge according to the rules? Either way, I am committing to it until I am able to build projects
 
-**Links**: https://twitter.com/darlene__rosa/status/1568709177781936137?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1568709177781936137%7Ctwgr%5Effeaafc541ecd348180308f9631725ed946f0b0c%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fdarlene__rosa2Fstatus2F1568709177781936137widget%3DTweet
+**Links**: https://twitter.com/darlene__rosa/status/1568709177781936137
+
 
 ### Day 1: September 9, 2022 -  Setting Up
 
@@ -133,3 +147,5 @@ https://twitter.com/darlene__rosa/status/1569437091548774402?ref_src=twsrc%5Etfw
 **Progress**:
 - Set up a Twitter account https://twitter.com/darlene__rosa.
 - Worked on freeCodeCamp's Basic JavaScript course and did a few exercises 
+
+**Links**: https://twitter.com/darlene__rosa/status/1568438364357140482 
