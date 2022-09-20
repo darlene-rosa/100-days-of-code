@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 12: September 20, 2022
+
+**Progress**:
+- Spent over an hour coding today! 
+- 100% Finished the "Learn Basic CSS by Building a Cafe Menu" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Having a good day and good time working on these HTML and CSS projects! 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1572298736369537031
+
 ### Day 11: September 19, 2022
 
 **Progress**:
