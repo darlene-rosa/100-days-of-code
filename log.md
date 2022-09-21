@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 13: September 21, 2022
+
+**Progress**:
+- Spent over an hour coding today! 
+- Started the "Learn CSS Colors by Building a Set of Colored Markers" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- It was interesting to learn about 3 different ways to create colors using CSS: hsl function, linear-gradient, RGB, and hexadecimal. I'm betting there are more but these are a few I was exposed to today! 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1572665817422266368
+
+
 ### Day 12: September 20, 2022
 
 **Progress**:
