@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 14: September 22, 2022
+
+**Progress**:
+- Finished "Learn CSS Colors by Building a Set of Colored Markers" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+-  Learning about the numerous ways to create colors with CSS was new to me. I don't recall going this in depth with CSS in my web design course that I took 2 years ago. There's still a lot to learn! 
+-  The minimum daily coding time that I set for this challenge is 30 minutes. This past week I've been able to dedicate a lot more time to coding which is great! I think it's because it's generally the first activity I do each day but also, the HTML and CSS projects are keeping me engaged where I want to keep going.
+-  I'm still glad I started this challenge! Spending some time coding everyday is becoming second nature to me. I'm so glad I'm getting consistent practice and sticking with it. I'm crushing it with my other two goals of movement and business too! & it's because I took on this challenge first.
+-  I'm looking forward to starting the next HTML project tomorrow. 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1573066893497344005https://twitter.com/darlene__rosa/status/1573066893497344005
+
 ### Day 13: September 21, 2022
 
 **Progress**:
