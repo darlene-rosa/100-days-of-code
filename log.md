@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 15: September 23, 2022
+
+**Progress**:
+- Started the HTML/CSS project "build a registration form" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Enjoying the practice I'm getting in building my skills with HTML & CSS. 
+- I'm starting to understand more clearly how the front-end works and I'm wondering what kind of projects and daily work I'd do if I did front-end development for a company. One of my goals is to be able to offer a full package service to clients --- beautiful web design and taking care of the backend too. I know some Python, I have to learn JavaScript, and I have to comprehend SQL. More research to do but I am loving the learning process
+- I'm proud of myself for making it this far!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1573349729358188551
+
 ### Day 14: September 22, 2022
 
 **Progress**:
