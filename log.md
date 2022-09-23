@@ -25,7 +25,7 @@ https://twitter.com/darlene__rosa/status/1573349729358188551
 -  I'm looking forward to starting the next HTML project tomorrow. 
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1573066893497344005https://twitter.com/darlene__rosa/status/1573066893497344005
+https://twitter.com/darlene__rosa/status/1573066893497344005
 
 ### Day 13: September 21, 2022
 
