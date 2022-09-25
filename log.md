@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: September 24, 2022
+
+**Progress**:
+- More progress on the "build a registration form" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- It's late. Almost forgot to post this log...Long day working on other projects. Not many thoughts right now! 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1573871544702537728
+
 ### Day 15: September 23, 2022
 
 **Progress**:
