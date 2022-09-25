@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: September 25, 2022
+
+**Progress**:
+- Completed the "build a registration form" [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Really liking the mini projects on freeCodeCamp. Happy that this project is done. Content with my progress and my learning! Feeling more confident overall with my consistency and discipline with this 100-day challenge. Hopeful about the future!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1574184731247255555
+
 ### Day 16: September 24, 2022
 
 **Progress**:
