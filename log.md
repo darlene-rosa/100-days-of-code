@@ -7,7 +7,7 @@
 - Coded for an hour or more today
 
 **&Thoughts**:
-- I'm proud I was able to complete that survey form! I styled after the registration form I did yesterday. My code didn't past the tests right away. Always double check your work for typos! I had to google some details on grouping radio buttons by giving them all the name "name" to pass the tests so only one option could be selected. I had also forgotton to give each checkbox a value of the name of the selection. Still not 100% sure when to use <fieldset> <div> <select> and their distinction with forms. Stuff to learn! Going to practice styling the form
+- I'm proud I was able to complete that survey form! I styled after the registration form I did yesterday. My code didn't past the tests right away. Always double check your work for typos! I had to google some details on grouping radio buttons by giving them all the name "name" to pass the tests so only one option could be selected. I had also forgotton to give each checkbox a value of the name of the selection. Still not 100% sure when to use fieldset div select and their distinction with forms. Stuff to learn! Going to practice styling the form
 
 **Links**: 
  https://twitter.com/darlene__rosa/status/1574514022065795074
