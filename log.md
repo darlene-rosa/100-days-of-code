@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 19: September 27, 2022
+
+**Progress**:
+- Completed the CSS for the "Build a Survey Form" [Responsive Web Design course on freeCodeCamp]
+- Coded for 2 hours early this morning!
+
+**&Thoughts**:
+- I followed a YouTube tutorial to code the CSS portion of the survey form. I've been completing projects in my editor so I haven't seen the live changes. I felt more competent in CSS watching someone else's thought process in coding and seeing immediate changes.
+
+**Links**: 
+https://twitter.com/darlene__rosa/status/1574639776078209025/photo/1
+
 ### Day 18: September 26, 2022
 
 **Progress**:
