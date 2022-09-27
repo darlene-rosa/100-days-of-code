@@ -7,7 +7,7 @@
 - Coded for 2 hours early this morning!
 
 **&Thoughts**:
-- I followed a YouTube tutorial to code the CSS portion of the survey form. I've been completing projects in my editor so I haven't seen the live changes. I felt more competent in CSS watching someone else's thought process in coding and seeing immediate changes.
+- I followed a YouTube tutorial to code the CSS portion of the survey form. I've been completing projects in my editor so I haven't seen the live changes. I felt more competent in CSS after watching someone else's thought process in coding and seeing immediate changes.
 
 **Links**: 
 https://twitter.com/darlene__rosa/status/1574639776078209025/photo/1
