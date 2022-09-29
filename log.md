@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 21: September 29, 2022
+
+**Progress**:
+- Completed the "Learn CSS Flexbox by Building a Photo Gallery" mini-project [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Enjoying CSS :)
+
+**Links**: 
+https://twitter.com/darlene__rosa/status/1575623486986342400/photo/1
+
 ### Day 20: September 28, 2022
 
 **Progress**:
