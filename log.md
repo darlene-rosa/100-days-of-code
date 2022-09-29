@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: September 28, 2022
+
+**Progress**:
+- Completed the "Learn the CSS Box Model by Building a Rothkp Painting" mini-project [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- This was a fun project to build. Much easier than building the colored markers! I like CSS! It's intuitive but also has many different facets for creating visuals.
+
+**Links**: 
+https://twitter.com/darlene__rosa/status/1575276108433571841/photo/2
+
 ### Day 19: September 27, 2022
 
 **Progress**:
