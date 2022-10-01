@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 22: September 30, 2022
+
+**Progress**:
+- Started the "Learn Typography by Building a Nutrition Label" mini-project [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Last day of September! I feel like I've begun my own Fall semester with this self-learning journey. I am super proud of my consistency. They say it takes 21 days to form a habit, well I can say coding daily is now a habit! 3 weeks of consistency feels great. I'm looking forward to being more confident in my skillset. 
+
+**Links**: 
+https://twitter.com/darlene__rosa/status/1576002214635929600
+
 
 ### Day 21: September 29, 2022
 
