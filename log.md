@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 24: October 2, 2022
+
+**Progress**:
+- Finished the "Learn Typography by Building a Nutrition Label" mini-project [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Done! On to the next mini-project tomorrow!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1576663663049527296
+
 ### Day 23: October 1, 2022
 
 **Progress**:
