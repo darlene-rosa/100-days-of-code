@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 25 & 26: October 3rd-4th,2022
+
+**Progress**:
+- Forgot to log yesterday! Between yesterday & today, I've completed 30 steps of "Learn Accessibility by Building a Quiz" mini-project [Responsive Web Design course on freeCodeCamp]
+
+**&Thoughts**:
+- Coded for about an hour throughout the day building this quiz.. which is more challenging than it looks.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1577439234998562817
+
+
 ### Day 24: October 2, 2022
 
 **Progress**:
@@ -15,7 +28,6 @@ https://twitter.com/darlene__rosa/status/1576663663049527296
 
 **Progress**:
 - Completed an additional 20 steps of the "Learn Typography by Building a Nutrition Label" mini-project [Responsive Web Design course on freeCodeCamp]
-
 
 **&Thoughts**:
 - Side note: I worked on a new version of my resume for an entry level data analyst or web dev position. Started researching freelance opportunities to increase my skill set. Nothing solid yet! I have no option but to have faith and believe everything will work out BETTER than I can imagine with my career in tech. It's not clear to me yet but Iknow there is something to this for me, I know there are ideal opportunities for me, I know I'll create my path in this field. I b-e-l-i-e-v-e!
