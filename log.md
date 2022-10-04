@@ -7,7 +7,7 @@
 - Forgot to log yesterday! Between yesterday & today, I've completed 30 steps of "Learn Accessibility by Building a Quiz" mini-project [Responsive Web Design course on freeCodeCamp]
 
 **&Thoughts**:
-- Coded for about an hour throughout the day building this quiz.. which is more challenging than it looks.
+- This quiz is more challenging than it looks. My mind has been distracted with thoughts of my future today so I haven't been able to focus on coding for more than 10-15 minutes at a time. I've done my best for today.
 
 **Links**:
 https://twitter.com/darlene__rosa/status/1577439234998562817
