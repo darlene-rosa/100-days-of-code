@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 27: October 5th,2022
+
+**Progress**:
+- 10 more steps of "Learn Accessibility by Building a Quiz" mini-project [Responsive Web Design course on freeCodeCamp]. 40 steps completed.
+
+**&Thoughts**:
+- This isn't my personal blog so I can't get very personal but today was a bit of a rough day emotionally. I didn't start coding until very late at night which if you check previous entries, I'm much better when I code in the morning. Don't get me wrong, I can definitely zone in and focus during late night sessions but I highly value my health and I know I should be sleeping. I'm still trying to get into a rhythm with this. Nonetheless, I could not let a day pass where I didn't put my minimum 30 minutes in. Everyday I am fighting for the future I want to create.
+- As the projects get progressively more challenging, the freeCodeCamp prompts ask me to complete tasks without so much as reminders or tips of how things are done. I think this is a flaw in the way their projects are structured. I'm having to do an internet search to figure out how to do certain things in HTML when I believe the resource I'm using should be teaching me so that I won't have to go outside of it to figure it out... That's all I have for today!
+
+
+**Links**: https://twitter.com/darlene__rosa/status/1577875949307236352/photo/1
+
 
 ### Day 25 & 26: October 3rd-4th,2022
 
