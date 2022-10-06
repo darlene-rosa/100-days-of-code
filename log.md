@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 28: October 6th,2022
+
+**Progress**:
+- FINALLY finished the "Learn Accessibility by Building a Quiz" mini-project [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- Happy to be done with that mini-project. Once I complete all of the projects to acquire the certification, I'll post about it on LinkedIn and perhaps revisit JavaScript or Python. That'll likely be in a few weeks!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1578148104318070784
+
 ### Day 27: October 5th,2022
 
 **Progress**:
