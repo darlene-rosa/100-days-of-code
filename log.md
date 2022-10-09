@@ -10,8 +10,8 @@
 - I'm most proud of myself for staying committed to this journey so far! I've completed mini projects that I once thought were too complicated for me. This is only the beginning of my journey. I made the right choice in diving into HTML & CSS to boost my confidence before delving into the more challenging stuff. Feeling super grateful for all that I've accomplished so far :)
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1578913883234144257
-https://twitter.com/darlene__rosa/status/1578585170898083841
+- https://twitter.com/darlene__rosa/status/1578913883234144257
+- https://twitter.com/darlene__rosa/status/1578585170898083841
 
 
 ### Day 28: October 6th,2022
