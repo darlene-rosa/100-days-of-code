@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 32 & 33: October 10 - 11th,2022
+
+**Progress**:
+- Making progress on "Learn More About CSS Pseudo Selectors By Building a Balance Sheet" Project - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- I guess I forgot to post here too! I was so tired yesterday from my day that I didn't get into coding until way late in the evening. I worked on the balance sheet yesterday and today and finished the majority of the HTML portion.
+- I'm starting to add more comments to my code especially CSS since I'm still learning it. This is a practice I used to do for school but I think it'll be good to maintain this practice going forward!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1580023389804462080
+
 ### Day 31: October 9th,2022
 
 **Progress**:
