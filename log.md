@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 34 & 35: October 12 - 13th,2022
+
+**Progress**:
+- Finished the Balance Sheet mini-Project, started working on the Picasso Painting project to increase my CSS skills - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- I used CSS colors and web design principles to edit my linktree page. #Proud Moment.
+
+**Links**:
+34 -- https://twitter.com/darlene__rosa/status/1580204963845636096
+35 -- https://twitter.com/darlene__rosa/status/1580630722477707264
+
 ### Day 32 & 33: October 10 - 11th,2022
 
 **Progress**:
