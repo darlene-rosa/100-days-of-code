@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 36: October 14th, 2022
+
+**Progress**:
+- Still working on the Picasso Painting project. 67% completed! - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- I said this in my tweet but I never would have thought I could recreate a painting using CSS. As you learn more, you imagine more. Even if I knew I could create a digital rendition of a painting using CSS, I probably would've chosen a Monet :-)   Just kidding because this Picasso painting is already very complicated. So many steps! 
+
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1581043435309760513
+
 ### Day 34 & 35: October 12 - 13th,2022
 
 **Progress**:
