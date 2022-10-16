@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 37: October 15th, 2022
+
+**Progress**:
+- Completed the Painting project. - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- to me it looks nothing like a Picasso but I get the concept! #Abstract Art. This project was pretty comprehensive and complicated to be honest. I have a lot to learn about CSS selectors.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1581483932993716224
+
 
 ### Day 36: October 14th, 2022
 
@@ -8,7 +19,6 @@
 
 **&Thoughts**:
 - I said this in my tweet but I never would have thought I could recreate a painting using CSS. As you learn more, you imagine more. Even if I knew I could create a digital rendition of a painting using CSS, I probably would've chosen a Monet :-)   Just kidding because this Picasso painting is already very complicated. So many steps! 
-
 
 **Links**:
 https://twitter.com/darlene__rosa/status/1581043435309760513
