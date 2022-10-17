@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 38: October 16th, 2022
+
+**Progress**:
+- Started and finished the Piano project. - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- Piano is actually my favorite instrument. I enjoyed working on this and I think I'm getting at least 1% better in understanding HTML and CSS. Now feeling kind of ready to complete this responsive web design certification to dive back into learning JavaScript! :)
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1581694399804645376
+
+
 ### Day 37: October 15th, 2022
 
 **Progress**:
