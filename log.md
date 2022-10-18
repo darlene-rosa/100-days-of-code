@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 39: October 17th, 2022
+
+**Progress**:
+- Started building a technical documentation page. - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- figured out most of the HTML on my own but CSS is still something I can't do without extra study resources.
+- super exhausted today. Did code for  more than an hour. win......
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1582180121921802240
+
 ### Day 38: October 16th, 2022
 
 **Progress**:
