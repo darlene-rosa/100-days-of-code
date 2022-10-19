@@ -10,7 +10,8 @@
 - I'm excited to complete this one though. I know it'll take me a few days because it has over 100 steps!
 
 **Links**:
-https://twitter.com/darlene__rosa/status/1582740812999569410/photo/1
+https://twitter.com/darlene__rosa/status/1582740812999569410
+
 
 ### Day 40: October 18th, 2022
 
