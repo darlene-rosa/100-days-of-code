@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 40: October 18th, 2022
+
+**Progress**:
+- Completed the technical documentation page and passed the tests - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- I got an acceptance into the next step of the tech program I applied to! This is more motivation to practice JavaScript sooner.
+- I still want to complete the CSS component of the tech doc page
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1582567673665179649
+
 ### Day 39: October 17th, 2022
 
 **Progress**:
