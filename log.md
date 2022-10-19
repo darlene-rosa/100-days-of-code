@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 41: October 19th, 2022
+
+**Progress**:
+- Started the City Skyline project - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- have so much to do today so I did the minimal amount of coding to meet my requirement for this journey. (30 minutes)
+- I'm excited to complete this one though. I know it'll take me a few days because it has over 100 steps!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1582740812999569410/photo/1
+
 ### Day 40: October 18th, 2022
 
 **Progress**:
