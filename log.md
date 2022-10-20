@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 42: October 20th, 2022
+
+**Progress**:
+- Working City Skyline project - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- It was one of those days where my personal life was so busy that I didn't have a lot of time (at least 30 min-1 hr) for coding but I did code several times throughout the day even if broken up into a few minutes at a time. 
+- i'm becoming a faster typer but I notice my body gets more restless being on the computer for too long
+- looking forward to another day tomorrow!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1583231270792101888
+
 ### Day 41: October 19th, 2022
 
 **Progress**:
