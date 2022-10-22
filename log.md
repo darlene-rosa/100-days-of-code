@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 43: October 21th, 2022
+
+**Progress**:
+- Working on the City Skyline project - [Responsive Web Design course on freeCodeCamp]. 
+- Got an unexpected SECOND acceptance this week into a tech training program! I'm super excited because it's sponsored by a major tech learning platform Udacity and an IT program, a full scholarship, self-paced and I can start this one right away! I'll be learning HTML, CSS, and Java. 
+
+**&Thoughts**:
+- I'm grateful and motivated!
+
+**Links**:
+- https://twitter.com/darlene__rosa/status/1583633666021859328
+
+
+
 ### Day 42: October 20th, 2022
 
 **Progress**:
