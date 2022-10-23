@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 44: October 22th, 2022
+
+**Progress**:
+- Finished the City Skyline project - [Responsive Web Design course on freeCodeCamp]. 
+
+**&Thoughts**:
+- I learned a lot more about CSS gradients and adding different backgrounds determined by the media size. I liked this project! Complex but satisfying to see the completed work.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1583989962940198913
+
 ### Day 43: October 21th, 2022
 
 **Progress**:
@@ -11,7 +22,6 @@
 
 **Links**:
 - https://twitter.com/darlene__rosa/status/1583633666021859328
-
 
 
 ### Day 42: October 20th, 2022
