@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 45: October 23rd, 2022
+
+**Progress**:
+
+
+**&Thoughts**:
+- I learned so much using Udacity's learning program. I like their structure and I'm super grateful I got accepted into the program. I believe it's going to prepare me well for a software developer career. I'm excited that Python, JavaScript, and Java are all included in the curriculum. Now I have a one-stop stop to learn everything that has been on my list to increase my skills.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1584362075605721088
+
+
 ### Day 44: October 22th, 2022
 
 **Progress**:
