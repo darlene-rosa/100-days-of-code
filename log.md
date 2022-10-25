@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 46: October 24rd, 2022
+
+**Progress**:
+- started a new mini project on freecodecamp and more work on the nanodegree
+
+**&Thoughts**:
+- I definitely put a lot of hours into my learning today. I think I may need to jump ahead and get some more practice and familiarity with JavaScript within the next couple of days in preparation for the group workshop. So I may jump between projects, it's not my preferred way of doing things but it's important. 
+- my body is definitely starting to feel the fatigue in my body from being on the computer a lot. I need a break. I'm almost half way through the hundred day challenge and this is where it's starting to get a bit more challenging.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1584702684728545280
+
+
 ### Day 45: October 23rd, 2022
 
 **Progress**:
-
 
 **&Thoughts**:
 - I learned so much using Udacity's learning program. I like their structure and I'm super grateful I got accepted into the program. I believe it's going to prepare me well for a software developer career. I'm excited that Python, JavaScript, and Java are all included in the curriculum. Now I have a one-stop stop to learn everything that has been on my list to increase my skills.
