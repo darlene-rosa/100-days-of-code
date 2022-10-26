@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 46: October 24rd, 2022
+### Day 47: October 25th, 2022
+
+**Progress**:
+- Continued working on my freecodecamp magazine mini-project and worked through a few more lessons in CSS on my UDACITY program
+
+**&Thoughts**:
+- I'm seeing the importance of getting the actual reps in everyday with coding in addition to practical learning so I'm glad I decided to do both at once
+- In regards to the long awaited tech training program acceptance that I received last week...because it's a multi-step/multi-acceptance long process, I'm going to be okay whether I got full acceptance into the program or not. I say this because I have slight anxiety about the mandatory workshop in two days since my JavaScript skills are not developed enough to do any coding challenges.
+- The Udacity acceptance gave me more hope for my futureFull Stack Web Developer career. Things are going to turn out okay because I will not give up :)
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1584978396529819648
+
+
+
+### Day 46: October 24th, 2022
 
 **Progress**:
 - started a new mini project on freecodecamp and more work on the nanodegree
