@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 47: October 25th, 2022
+### Day 48: October 26th, 2022
 
 **Progress**:
 - same as yesterday
