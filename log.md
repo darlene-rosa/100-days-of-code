@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 49: October 27th, 2022
+
+**Progress**:
+- Created and completed a simple animal trading card using HTML and CSS. 
+- I completed the Intro to Web Development on Udacity.
+-
+**Thoughts**:
+- Tomorrow I will continue working on my freeCodeCamp project and begin studying Python since that is the next section of my nanodegree program. I am still immensely grateful that I got accepted into the program! I get to begin studying and building skills right away! 
+- I'm really looking forward to getting back into practice with Python because it's been months for me and even longer since I've built a real project using Python. Mostly I've created some visualizations and graphs but it'll be cool to do something different. Python is a language I enjoy and I want to get better at it.
+- With all of these wins I've accumulated (confidence building activities) programming in HTML and CSS, I'm honestly feeling that Full stack is the path for me :)
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1585796267812061185
+
+
 ### Day 48: October 26th, 2022
 
 **Progress**:
