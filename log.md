@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 51: October 29th, 2022
+
+**Progress**:
+- Attended a session with a mentor of the program and other classmates
+- Worked a lot on the Python section of the nanodegree program
+
+**Thoughts**:
+- I'm glad I'm learning Turtle, it's something new for me. I wasn't taught this in any of my Python programming courses. I'm feeling good about my progress and consistency! 
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1586571132202893313
+
 ### Day 50: October 28th, 2022
 
 **Progress**:
