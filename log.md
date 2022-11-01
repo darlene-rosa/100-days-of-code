@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 52 + 53: October 30th - 31st, 2022
+
+**Progress**:
+- I've been working on Python in my nanodegree program. On day 52, I learned how to make shapes in different colors using Turtles and today got into functions
+- Also started a mini project - ferris wheel on python
+
+**Thoughts**:
+- it was a busy day. spent more time on business and fitness so didn't get to coding until really late!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1587293454408843265
+
 ### Day 51: October 29th, 2022
 
 **Progress**:
