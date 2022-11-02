@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 55 Novemeber 2nd, 2022
+
+**Progress**:
+**Thoughts**:
+**Links**:
+https://twitter.com/darlene__rosa/status/1587879579179536384
+
 ### Day 54 Novemeber 1st, 2022
 
 **Progress**:
