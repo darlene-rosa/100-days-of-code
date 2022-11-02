@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 52 + 53: October 30th - 31st, 2022
+### Day 54 Novemeber 1st, 2022
 
 **Progress**:
 - finished the ferris wheel CSS project!
