@@ -3,6 +3,18 @@
 ### Day 52 + 53: October 30th - 31st, 2022
 
 **Progress**:
+- finished the ferris wheel CSS project!
+
+**Thoughts**:
+- Three more projects to go until I earn the responsive web design certification from freeCodeCamp! One more major CSS project and 2 personal "do-it-yourself" coding projects
+- An entrepreneur in the making works 'round the clock until the dream begins manifesting itself.
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1587627347129278465
+
+### Day 52 + 53: October 30th - 31st, 2022
+
+**Progress**:
 - I've been working on Python in my nanodegree program. On day 52, I learned how to make shapes in different colors using Turtles and today got into functions
 - Also started a mini project - ferris wheel on python
 
