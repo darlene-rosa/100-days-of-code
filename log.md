@@ -1,9 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 56 Novemeber 3rd, 2022
+
+**Progress**:
+- i'm 67% done with the penguin project!
+
+**Thoughts**:
+-  learning CSS has been really cool. there's so much to learn and so many different ways to make digital art. I've created more things with css than I ever thought possible.
+-  learning Python is still challenging but I have to put time into my udacity course later
+- i know the last two freecodecamp projects will be challenging too but they are exactly what I've wanted to accomplish: a product landing page and a personal portfolio. in college, i created a project website for a book so this upcoming project will help me improve the site i already have. I'm really looking forward to doing both!
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1588179003575128064
+
 ### Day 55 Novemeber 2nd, 2022
 
 **Progress**:
+- work on freecodecamp and udacity
+
 **Thoughts**:
+
 **Links**:
 https://twitter.com/darlene__rosa/status/1587879579179536384
 
