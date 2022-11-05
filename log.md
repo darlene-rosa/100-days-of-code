@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 58: Novemeber 5th, 2022
+
+**Progress**:
+- Working through both freecodecamp and udacity course
+
+**Thoughts**:
+-  I'm feeling good about the progress I've been making this week. I've been working a lot and haven't been able to devote as much time as I wanted to my Udacity course but I've taken the time my body's needed to rest. I will do better next week.
+-  I'm almost done with the last mini-project on freecodecamp before doing the two technical projects!
+-  Overall, I'm feeling really proud of myself for sticking it out on this journey
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1589027341770326016
+
+### Day 57: Novemeber 4th, 2022
+Recap: I was exhausted yesterday and barely hit my minimum time of coding since I didn't get to it until really late. I put in maybe 10-15 minutes of work in my udacity course. All of the other days where I gave hours to coding afforded me a little time off 
+
 ### Day 56 Novemeber 3rd, 2022
 
 **Progress**:
