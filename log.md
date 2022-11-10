@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 59-63: Novemeber 6-10th, 2022
+
+**Progress**:
+- Still working through both the freecodecamp and udacity courses!
+- HTML, CSS, PYTHON
+
+**Thoughts**:
+- Since I'm concurrently doing two other #100days goals (business and movement), I messed up the count on one of them which spiraled over into my count on Twitter. And then I didn't post for a couple of days. Simple mistake. All good though. (The one place I am trying to be most consistent with posting daily is my IG stories because I actually have more of an audience there.)
+- Learning Python Functions on Udacity has been a bit confusing and challenging because I just learned Turtle graphics and how to create shapes using angles and degrees. It's more math which complicated an already difficult subject
+- CSS has also been one of the hardest languages to learn. I understand HTML pretty well and create the general skeleton of any page but styling it is something I'm unable to do right now without looking at my notes and prior projects. It's not going to earn me anything except experience but I want to complete the CSS for all of the freecodecamp technical projects. That would make me proud.
+- I think that's all for today. Going to do better about posting on github and twitter.
+
+**Links**:
+Day 59: https://twitter.com/darlene__rosa/status/1589304092379078656
+Day 60: https://twitter.com/darlene__rosa/status/1589854735116701696
+Day 61-63: https://twitter.com/darlene__rosa/status/1590815488548155393
+
+
 ### Day 58: Novemeber 5th, 2022
 
 **Progress**:
