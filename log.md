@@ -4,7 +4,7 @@
 ### Day 64: Novemeber 11th, 2022
 
 **Progress**:
-- I am 44% completed with my Intro to Programming with Python 1 with my Udacicty nanodegree
+- I am 44% completed with my Intro to Programming with Python 1 in my Udacity nanodegree program
 
 **Thoughts**:
 - wish I had time to do both the udacity and the freecodecamp product landing page project. Css takes so much time to learn and understand so it really takes several hours to work through a project for me
