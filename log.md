@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 64: Novemeber 11th, 2022
+
+**Progress**:
+- I am 44% completed with my Intro to Programming with Python 1 with my Udacicty nanodegree
+
+**Thoughts**:
+- wish I had time to do both the udacity and the freecodecamp product landing page project. Css takes so much time to learn and understand so it really takes several hours to work through a project for me
+
+**Links**:
+https://twitter.com/darlene__rosa/status/1591224203885547520
+
 ### Day 59-63: Novemeber 6-10th, 2022
 
 **Progress**:
