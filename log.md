@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 65-68: Novemeber 12th-15th, 2022
+
+**Progress**:
+- I've been coding and learning daily!
+- I've been working more on the UDACITY program in Python
+- I joined a 2-week scrum challenge in my nanodegree program where I'll post daily to Slack and plan to complete a python based project
+- I completed the freecodecamp project product landing page
+- I started the personal portfolio project 
+
+**Thoughts**:
+- Although the technical challenges are quite challenging, I have been getting more out of the practice from freecodecamp. My Udacity course fills in the learning gaps. It's much more time consuming and takes longer to work through the lessons than it does with freecodecamp. It's actually almost just as confusing now as it was when I was taking courses in college. I still struggle with writing functions. Nonetheless, I'm grateful to be doing both
+
+**Links**:
+68- https://twitter.com/darlene__rosa/status/1592660610281787392
+67- https://twitter.com/darlene__rosa/status/1592363707409260545
+66- https://twitter.com/darlene__rosa/status/1592005827493519360
+65- https://twitter.com/darlene__rosa/status/1591655542707060736
+
+
+
 ### Day 64: Novemeber 11th, 2022
 
 **Progress**:
